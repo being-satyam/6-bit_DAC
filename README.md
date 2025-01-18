@@ -56,5 +56,5 @@ The project achieves key performance targets, validating the design and its robu
 ---
 
 ## **Contributor**
-- **Yash Geek**  
+- **Satyam Kumar**  
   - [GitHub Profile](https://github.com/being-satyam)  
