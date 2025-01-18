@@ -27,12 +27,12 @@ Designed and simulated a 6-bit fully differential current-steering DAC using the
 
 ## **Simulation Results**
 - **Ideal DAC Transfer Characteristic**  
-  ![Ideal DAC](outputidealvoltagetransfercharacteristics.jpg)  
+  ![Ideal DAC](Results/outputidealvoltagetransfercharacteristics.jpg)  
 - **Non-Ideal DAC Transfer Characteristic**  
-  ![Non-Ideal DAC](rcdacvoltagetransfercharactersictics.jpg)  
+  ![Non-Ideal DAC](Results/rcdacvoltagetransfercharactersictics.jpg)  
 - **INL and DNL Plots**  
-  ![INL](INLnew.png)  
-  ![DNL](DNLnew.png)  
+  ![INL](Results.INLnew.png)  
+  ![DNL](Rseults/DNLnew.png)  
 
 ---
 
